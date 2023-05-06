@@ -1,0 +1,1564 @@
+{
+    "games":
+    [
+        {
+         "GAME NO.": "GSLG01",
+         "HOME": "SAVIO",
+         "AWAY": "BANTU SPORTS",
+         "CONFERENCE": "WESTERN ",
+         "DAY": "SAT",
+         "DATE": "4TH MARCH", 
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG02",
+         "HOME": "JERICHO VIPERS",
+         "AWAY": "JERICHO NETS",
+         "CONFERENCE": "WESTERN ",
+         "DAY": "SAT",
+         "DATE": "4TH MARCH",
+         "TIME": "11.50AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG03",
+         "HOME": "FEBA ACADEMY ",
+         "AWAY": "JUNUBIN NATION",
+         "CONFERENCE": "WESTERN ",
+         "DAY": "SAT",
+         "DATE": "4TH MARCH",
+         "TIME": "1.40PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+       
+        },
+        {
+         "GAME NO.": "GSLG04",
+         "HOME": "MOORE WRIGHT GROUP",
+         "AWAY": "OTEK BASKETBALL",
+         "CONFERENCE": "WESTERN ",
+         "DAY": "SAT",
+         "DATE": "4TH MARCH",
+         "TIME": "3.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+       
+        },
+        {
+         "GAME NO.": "GSLG05",
+         "HOME": "TEAM EXPERIENCE ",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "WESTERN ",
+         "DAY": "SAT",
+         "DATE": "4TH MARCH",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+         
+        },
+      
+        {
+         "GAME NO.": "GSLG06",
+         "HOME": "PRIDE LANDERS",
+         "AWAY": "TWENDE SPORTS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "5TH MARCH",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK",
+         "NOTES": "RESCHEDULED"
+        },
+        {
+         "GAME NO.": "GSLG07",
+         "HOME": "RUIRU BAPTIST",
+         "AWAY": "SEVEN ELEVEN",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "5TH MARCH",
+         "TIME": "11.50AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        
+        },
+        {
+         "GAME NO.": "GSLG08",
+         "HOME": "CLIQUE MAMBAS",
+         "AWAY": "BROWNING",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "5TH MARCH",
+         "TIME": "1.40PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG09",
+         "HOME": "DEMENTERS ",
+         "AWAY": "KIBRA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "5TH MARCH",
+         "TIME": "3.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG10",
+         "HOME": "SUNRISE ",
+         "AWAY": "FAM KENYA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "5TH MARCH",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+    
+        {
+         "GAME NO.": "GSLG11",
+         "HOME": "NASRA EAGLES",
+         "AWAY": "RUIRU BAPTIST",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "9.30AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG12",
+         "HOME": "BURU CRUSADERS",
+         "AWAY": "PRIDE LANDERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "11.00AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG13",
+         "HOME": "DEMENTERS",
+         "AWAY": "FAM KENYA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "12.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG01",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "2.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG14",
+         "HOME": "KIBRA ",
+         "AWAY": "SUNRISE",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "3.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG15",
+         "HOME": "CLIQUE MAMBAS",
+         "AWAY": "TWENDE SPORTS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "5.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+       
+        {
+         "GAME NO.": "GSLG16",
+         "HOME": "JERICHO NETS ",
+         "AWAY": "TEAM EXPERIENCE",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG17",
+         "HOME": "SWAT NATION",
+         "AWAY": "MOORE WRIGHT GROUP",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG18",
+         "HOME": "BANTU SPORTS",
+         "AWAY": "HURUMA DRAGON",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG02",
+         "HOME": "MOORE WRIGHT GROUP",
+         "AWAY": "STINGERS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG19",
+         "HOME": "JUNUBIN ",
+         "AWAY": "JERICHO VIPERS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG20",
+         "HOME": "FEBA  ACADEMY",
+         "AWAY": "SAVIO",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "11TH MARCH",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+      
+        {
+         "GAME NO.": "GSLG21",
+         "HOME": "DEMENTERS",
+         "AWAY": "NASRA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "12TH MARCH",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG22",
+         "HOME": "FAM KENYA ",
+         "AWAY": "KIBRA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "12TH MARCH",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG03",
+         "HOME": "BOMBEEZ ",
+         "AWAY": "SCARLETS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SUN",
+         "DATE": "12TH MARCH",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG23",
+         "HOME": "CLIQUE MAMBAS",
+         "AWAY": "BURU CRUSADERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "12TH MARCH",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG24",
+         "HOME": "RUIRU BAPTIST",
+         "AWAY": "TWENDE SPORTS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "12TH MARCH",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG25",
+         "HOME": "SUNRISE ",
+         "AWAY": "SEVEN ELEVEN",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "12TH MARCH",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+     
+        {
+         "GAME NO.": "GSLG26",
+         "HOME": "MOORE WRIGHT GROUP ",
+         "AWAY": "JERCHO NETS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "9.30AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG27",
+         "HOME": "HURUMA DRAGON ",
+         "AWAY": "FEBA ACADEDEMY",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "11.00AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG04",
+         "HOME": "SCARLETS",
+         "AWAY": "ACTIVE NATION",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "12.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG28",
+         "HOME": "TEAM EXPERIENCE",
+         "AWAY": "JERICHO VIPERS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "2.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG29",
+         "HOME": "OTEK BASKETBALL",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "3.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG30",
+         "HOME": "JUNUBIN ",
+         "AWAY": "BANTU SPORTS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "5.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+       
+        {
+         "GAME NO.": "GSLG31",
+         "HOME": "NASRA",
+         "AWAY": "SUNRISE",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG32",
+         "HOME": "PRIDE LANDERS",
+         "AWAY": "CLIQUE MAMBAS ",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG05",
+         "HOME": "MONEY TEAM ",
+         "AWAY": "SCARLETS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG33",
+         "HOME": "BURU CRUSADERS",
+         "AWAY": "RUIRU BAPTIST",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG34",
+         "HOME": "SEVEN ELEVEN",
+         "AWAY": "FAM KENYA ",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG35",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "DEMENTERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "18TH MARCH",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG36",
+         "HOME": "JERICHO NETS",
+         "AWAY": "OTEK BASKETBALL",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SUN",
+         "DATE": "19TH MARCH",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG37",
+         "HOME": "SAVIO",
+         "AWAY": "HURUMA DRAGONS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SUN",
+         "DATE": "19TH MARCH",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG06",
+         "HOME": "STINGERS",
+         "AWAY": "BOMBEEZ",
+         "CONFERENCE": "LADIES",
+         "DAY": "SUN",
+         "DATE": "19TH MARCH",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG07",
+         "HOME": "SWAT",
+         "AWAY": "MOORE WRIGHT GROUP",
+         "CONFERENCE": "LADIES",
+         "DAY": "SUN",
+         "DATE": "19TH MARCH",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG38",
+         "HOME": "JERICHO VIPERS",
+         "AWAY": "MOORE WRIGHT GROUP",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SUN",
+         "DATE": "19TH MARCH",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG39",
+         "HOME": "BANTU SPORTS",
+         "AWAY": "TEAM EXPERIENCE",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SUN",
+         "DATE": "19TH MARCH",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+       
+        {
+         "GAME NO.": "GSLG40",
+         "HOME": "FAM KENYA ",
+         "AWAY": "NASRA EAGLES",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "9.30AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG41",
+         "HOME": "DEMENTERS",
+         "AWAY": "BURU CRUSADERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "11.00AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG07",
+         "HOME": "ACTIVE NATION ",
+         "AWAY": "TWENDE SPORTS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "12.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG42",
+         "HOME": "SUNRISE ",
+         "AWAY": "TWENDE SPORTS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "2.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG43",
+         "HOME": "SEVEN ELEVEN",
+         "AWAY": "KIBRA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "3.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG44",
+         "HOME": "RUIRU BAPTIST ",
+         "AWAY": "PRIDE LANDERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "5.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+       
+        {
+         "GAME NO.": "GSLG45",
+         "HOME": "MOORE WRIGHT GROUP",
+         "AWAY": "BANTU SPORTS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG08",
+         "HOME": "SCARLETS ",
+         "AWAY": "STINGERS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG46",
+         "HOME": "SWAT NATION",
+         "AWAY": "JERICHO NETS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG47",
+         "HOME": "TEAM EXPERIENCE",
+         "AWAY": "FEBA ACADEMY",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG48",
+         "HOME": "OTEK BASKETBALL",
+         "AWAY": "JERICHO VIPERS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG49",
+         "HOME": "JUNUBIN ",
+         "AWAY": "SAVIO",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "25TH  MARCH",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        
+    
+        {
+         "GAME NO.": "GSLG50",
+         "HOME": "KIBRA ",
+         "AWAY": "NASRA EAGLES",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "26TH  MARCH",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG51",
+         "HOME": "PRIDE LANDERS ",
+         "AWAY": "DEMENTERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "26TH  MARCH",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG52",
+         "HOME": "BURU CRUSADERS",
+         "AWAY": "SUNRISE",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "26TH  MARCH",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG09",
+         "HOME": "BOMBEEZ",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "LADIES",
+         "DAY": "SUN",
+         "DATE": "26TH  MARCH",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG54",
+         "HOME": "CLIQUE MAMBAS",
+         "AWAY": "RUIRU BAPTIST",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "26TH  MARCH",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG55",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "FAM KENYA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "26TH  MARCH",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+      
+        {
+         "HOME": "FRIDAY NIGHT"
+        },
+        {
+         "GAME NO.": "GSLG56",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "KIBRA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "FRI",
+         "DATE": "31ST MARCH",
+         "TIME": "6.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG57",
+         "HOME": "JUNUBIN ",
+         "AWAY": "SWAT",
+         "CONFERENCE": "WESTERN",
+         "DAY": "FRI",
+         "DATE": "31ST MARCH",
+         "TIME": "8.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG58",
+         "HOME": "HURUMA DRAGONS",
+         "AWAY": "JUNUBIN ",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "11.00AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG59",
+         "HOME": "JERICHO VIPERS",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "12.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG10",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "MOORE WRIGHT GROUP",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "2.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG61",
+         "HOME": "BANTU SPORTS",
+         "AWAY": "OTEK BASKETBALL",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "3.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG62",
+         "HOME": "SAVIO",
+         "AWAY": "TEAM EXPERIENCE",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "5.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG63",
+         "HOME": "DEMENTERS",
+         "AWAY": "CLIQUE MAMBERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG64",
+         "HOME": "SEVEN ELEVEN",
+         "AWAY": "NASRA EAGLES",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG65",
+         "HOME": "SUNRISE ",
+         "AWAY": "PRIDE LANDERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG11",
+         "HOME": "SWAT NATION",
+         "AWAY": "SCARLETS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG12",
+         "HOME": "MONEY TEAM",
+         "AWAY": "TWENDE SPORTS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG68",
+         "HOME": "FAM KENYA",
+         "AWAY": "BURU CRUSADERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "1ST APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+    
+        {
+         "GAME NO.": "GSLG69",
+         "HOME": "TEAM EXPERIENCE ",
+         "AWAY": "HURUMA",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SUN",
+         "DATE": "2ND APRIL",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG70",
+         "HOME": "MOORE WRIGHT GROUP",
+         "AWAY": "SAVIO",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SUN",
+         "DATE": "2ND APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG13",
+         "HOME": "STINGERS",
+         "AWAY": "ACTIVE NATION",
+         "CONFERENCE": "LADIES",
+         "DAY": "SUN",
+         "DATE": "2ND APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG14",
+         "HOME": "MOORE WRIGHT GROUP",
+         "AWAY": "BOMBEEZ",
+         "CONFERENCE": "LADIES",
+         "DAY": "SUN",
+         "DATE": "2ND APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG73",
+         "HOME": "OTEK BASKETABLL",
+         "AWAY": "FEBA ACADEMY",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SUN",
+         "DATE": "2ND APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG74",
+         "HOME": "SWAT NATION",
+         "AWAY": "BANTU SPORTS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SUN",
+         "DATE": "2ND APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+      
+        {
+         "GAME NO.": "GSLG75",
+         "HOME": "RUIRU BAPTIST",
+         "AWAY": "DEMENTORS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "FRI",
+         "DATE": "7TH APRIL",
+         "TIME": "10.00AM",
+         "COURT": "KOMAROCK",
+         "LOCATION": "KFC COURT"
+        },
+        {
+         "GAME NO.": "GSLG76",
+         "HOME": "PRIDE LANDERS",
+         "AWAY": "FAM KENYA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "FRI",
+         "DATE": "7TH APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KOMAROCK",
+         "LOCATION": "KFC COURT"
+        },
+        {
+         "GAME NO.": "GSLG77",
+         "HOME": "CLIQUE MAMBAS",
+         "AWAY": "SUNRISE",
+         "CONFERENCE": "EASTERN",
+         "DAY": "FRI",
+         "DATE": "7TH APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KOMAROCK",
+         "LOCATION": "KFC COURT"
+        },
+        {
+         "GAME NO.": "GWLG15",
+         "HOME": "ACTIVE NATION",
+         "AWAY": "MONEY TEAM",
+         "CONFERENCE": "LADIES",
+         "DAY": "FRI",
+         "DATE": "7TH APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KOMAROCK",
+         "LOCATION": "KFC COURT"
+        },
+        {
+         "GAME NO.": "GSLG79",
+         "HOME": "BURU CRUSADERS",
+         "AWAY": "KIBRA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "FRI",
+         "DATE": "7TH APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KOMAROCK",
+         "LOCATION": "KFC COURT"
+        },
+        {
+         "GAME NO.": "GSLG80",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "SEVEN ELEVEN",
+         "CONFERENCE": "EASTERN",
+         "DAY": "FRI",
+         "DATE": "7TH APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KOMAROCK",
+         "LOCATION": "KFC COURT"
+        },
+       
+        {
+         "GAME NO.": "GWLG16",
+         "HOME": "MOORE WRIGHT GROUP ",
+         "AWAY": "ACTIVE NATION",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "12.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG17",
+         "HOME": "STINGERS",
+         "AWAY": "BOMBEEZ",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "2.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG18",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "SCARLETS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "3.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG19",
+         "HOME": "SWAT NATION",
+         "AWAY": "MONEY TEAM",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "5.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+      
+        {
+         "GAME NO.": "GSLG81",
+         "HOME": "HURUMA DRAGON ",
+         "AWAY": "MOORE WRIGHT GROUP",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG82",
+         "HOME": "BANTU SPORTS",
+         "AWAY": "JERICHO NETS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG83",
+         "HOME": "JUNUBIN",
+         "AWAY": "TEAM EXPERIENCE",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG84",
+         "HOME": "FEBA ACADEMY",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG85",
+         "HOME": "SAVIO ",
+         "AWAY": "OTEK BASKETBALL",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "8TH APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        
+        {
+         "GAME NO.": "GSLG86",
+         "HOME": "KIBRA ",
+         "AWAY": "PRIDE LANDERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "9TH APRIL",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG87",
+         "HOME": "NASRA  EAGLES",
+         "AWAY": "TWENDE SPORTS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "9TH APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG88",
+         "HOME": "SUNRISE ",
+         "AWAY": "RUIRU BAPTIST",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "9TH APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG20",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "BOMBEEZ",
+         "CONFERENCE": "LADIES",
+         "DAY": "SUN",
+         "DATE": "9TH APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG90",
+         "HOME": "FAM KENYA ",
+         "AWAY": "CLIQUE MAMBAS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "9TH APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG91",
+         "HOME": "SEVEN ELEVEN",
+         "AWAY": "BURU CRUSADERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "9TH APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+    
+        {
+         "GAME NO.": "GSLG92",
+         "HOME": "JERICHO NETS ",
+         "AWAY": "FEBA ACADEMY",
+         "CONFERENCE": "WESTERN",
+         "DAY": "MON",
+         "DATE": "10TH APRIL",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG93",
+         "HOME": "MOORE WRIGHT GROUP",
+         "AWAY": "JUNUBIN",
+         "CONFERENCE": "WESTERN",
+         "DAY": "MON",
+         "DATE": "10TH APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG94",
+         "HOME": "JERICHO VIPERS",
+         "AWAY": "BANTU SPORTS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "MON",
+         "DATE": "10TH APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG21",
+         "HOME": "STINGERS",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "LADIES",
+         "DAY": "MON",
+         "DATE": "10TH APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG96",
+         "HOME": "OTEK BASKTBALL ",
+         "AWAY": "HURUMA DRAGON",
+         "CONFERENCE": "WESTERN",
+         "DAY": "MON",
+         "DATE": "10TH APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG97",
+         "HOME": "SWAT",
+         "AWAY": "SAVIO",
+         "CONFERENCE": "WESTERN",
+         "DAY": "MON",
+         "DATE": "10TH APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+    
+        {
+         "GAME NO.": "GSLG98",
+         "HOME": "DEMENTER ",
+         "AWAY": "SUNRISE",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "9.30AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG99",
+         "HOME": "PRIDE LANDERS ",
+         "AWAY": "SEVEN ELEVEN",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "11.00AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG100",
+         "HOME": "BURU CRUSADERS",
+         "AWAY": "NASRA EAGLES",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "12.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG23",
+         "HOME": "ACTIVE NATION ",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "2.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG102",
+         "HOME": "RUIRU BAPTIST",
+         "AWAY": "FAM KENYA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "3.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG103",
+         "HOME": "CLIQUE MAMBAS ",
+         "AWAY": "KIBRA",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "5.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG104",
+         "HOME": "FEBA ACADEMY",
+         "AWAY": "JERICHO VIPERS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG105",
+         "HOME": "SAVIO",
+         "AWAY": "JERICHO NETS",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG24",
+         "HOME": "MONEY TEAM ",
+         "AWAY": "MOORE WRIGHT GROUP",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG107",
+         "HOME": "HURUMA DRAGON",
+         "AWAY": "SWAT NATION",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG108",
+         "HOME": "JUNUBIN",
+         "AWAY": "OTEK BASKETBALL",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG109",
+         "HOME": "TEAM EXPERIENCE",
+         "AWAY": "MOORE WRIGHT GROUP",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "15TH APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+      
+        {
+         "GAME NO.": "GSLG110",
+         "HOME": "SEVEN ELEVEN",
+         "AWAY": "DEMENTERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "16TH APRIL",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG111",
+         "HOME": "NASRA EAGLES",
+         "AWAY": "PRIDE LANDERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "16TH APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GWLG25",
+         "HOME": "BOMBEEZ ",
+         "AWAY": "MONEY TEAM",
+         "CONFERENCE": "LADIES",
+         "DAY": "SUN",
+         "DATE": "16TH APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG113",
+         "HOME": "SEVEN ELEVEN",
+         "AWAY": "CLIQUE MAMBAS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "16TH APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG114",
+         "HOME": "TWENDE SPORTS",
+         "AWAY": "BURU CRUSADERS",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "16TH APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG115",
+         "HOME": "KIBRA",
+         "AWAY": "RUIRU BAPTIST",
+         "CONFERENCE": "EASTERN",
+         "DAY": "SUN",
+         "DATE": "16TH APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+       
+        {
+         "GAME NO.": "GSLG116",
+         "HOME": "JERICHO VIPERS",
+         "AWAY": "SAVIO",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "22ND APRIL",
+         "TIME": "9.30AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG117",
+         "HOME": "JERICHO NETS",
+         "AWAY": "HURUMA DRAGON",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "22ND APRIL",
+         "TIME": "11.00AM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG26",
+         "HOME": "ACTIVE NATION",
+         "AWAY": "BOMBEEZ",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "22ND APRIL",
+         "TIME": "12.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GWLG27",
+         "HOME": "MONEY TEAM",
+         "AWAY": "STINGERS",
+         "CONFERENCE": "LADIES",
+         "DAY": "SAT",
+         "DATE": "22ND APRIL",
+         "TIME": "2.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG120",
+         "HOME": "OTEK BASKETBALL",
+         "AWAY": "TEAM EXPERIENCE",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "22ND APRIL",
+         "TIME": "3.30PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+        {
+         "GAME NO.": "GSLG121",
+         "HOME": "BANTU SPORTS",
+         "AWAY": "FEBA ACADEMY",
+         "CONFERENCE": "WESTERN",
+         "DAY": "SAT",
+         "DATE": "22ND APRIL",
+         "TIME": "5.00PM",
+         "COURT": "DIWOPA",
+         "LOCATION": "KAYOLE"
+        },
+      
+        {
+         "GAME NO.": "GSLG122",
+         "DAY": "SUN",
+         "DATE": "23RD APRIL",
+         "TIME": "10.00AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG123",
+         "DAY": "SUN",
+         "DATE": "23RD APRIL",
+         "TIME": "11.30AM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG124",
+         "DAY": "SUN",
+         "DATE": "23RD APRIL",
+         "TIME": "1.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG125",
+         "HOME": "JUNUBIN ",
+         "AWAY": "JERICHO NETS",
+         "DAY": "SUN",
+         "DATE": "23RD APRIL",
+         "TIME": "2.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG126",
+         "HOME": "HURUMA DRAGONS",
+         "AWAY": "JERICHO VIPERS",
+         "DAY": "SUN",
+         "DATE": "23RD APRIL",
+         "TIME": "4.00PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        },
+        {
+         "GAME NO.": "GSLG127",
+         "HOME": "CLIQUE MAMBAS",
+         "AWAY": "NASRA EAGLES",
+         "DAY": "SUN",
+         "DATE": "23RD APRIL",
+         "TIME": "5.30PM",
+         "COURT": "KFC COURT",
+         "LOCATION": "KOMAROCK"
+        }
+    
+    ]
+    }
+    

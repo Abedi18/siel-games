@@ -1,0 +1,7 @@
+/* Set box-sizing to border-box on all elements */
+* {
+  box-sizing: border-box;
+}
+
+/*
+}
